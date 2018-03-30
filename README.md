@@ -1,0 +1,2 @@
+- gshandler.py … スプレッドシート操作クラス
+- spreadsheet_handle.py … デモ用サンプルコード
